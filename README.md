@@ -23,3 +23,5 @@ Posteriormente correr el comando
 ```bash
 yarn start
 ```
+
+La base de datos es MariaDB, asegurarse de tenerla instalada y corriendo en el puerto 3306 con usuario y contraseña root. Para crear la base de datos y las tablas correr el script que se encuentra en la carpeta db.
